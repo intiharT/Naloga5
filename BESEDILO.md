@@ -1,4 +1,5 @@
 # Uvod v Git
+tretja spremba.
 druga sprememba 
 sprememba v prvem odstavku
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
